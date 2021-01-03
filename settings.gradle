@@ -1,0 +1,2 @@
+rootProject.name='BayrakQuizUygulaması'
+include ':app'
